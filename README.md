@@ -19,7 +19,7 @@ EasySave is a robust backup software designed to securely save and encrypt speci
 
 ## Contributors 🧑‍💻
 Meet the minds behind this project:
-- Mohammed Reda Guellati
+- Nadir Zamouche
 - Elrayan Hamhami
 
 Thank you for checking out our project! If you have any questions or feedback, feel free to reach out. Happy coding! 😊
